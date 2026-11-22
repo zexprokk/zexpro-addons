@@ -1,20 +1,4 @@
 {
   "installers": [],
-  "addons": {
-    "gitc": {
-      "version": "0.0.1-zzt",
-      "tag": "v0.0.1-zzt",
-      "notes": [
-        "工具自测，稍后删除"
-      ],
-      "files": [
-        {
-          "name": "zz-test-asset.addon64",
-          "size": 2097152,
-          "url": "https://github.com/zexprokk/zexpro-addons/releases/download/v0.0.1-zzt/zz-test-asset.addon64"
-        }
-      ],
-      "updatedAt": "2026-11-22T19:28:53.511Z"
-    }
-  }
+  "addons": {}
 }
