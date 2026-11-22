@@ -1,22 +1,4 @@
 {
-  "installers": [
-    {
-      "version": "3.2.0",
-      "file": "DLSS5-zeXPro-Installer-v3.2.0-full.zip",
-      "sizeMb": 2741,
-      "baidu": {
-        "url": "https://pan.baidu.com/s/1TESTONLY",
-        "code": "abcd"
-      },
-      "quark": {
-        "url": "https://pan.quark.cn/s/TESTONLY",
-        "code": "efgh"
-      },
-      "notes": [
-        "测试用，稍后替换成真实链接"
-      ],
-      "publishedAt": "2026-11-22T20:47:18.554Z"
-    }
-  ],
+  "installers": [],
   "addons": {}
 }
