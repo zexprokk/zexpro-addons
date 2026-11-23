@@ -25,31 +25,6 @@
         "其他懒得写了 有bug及时反馈"
       ],
       "publishedAt": "2026-11-23T04:46:16.386Z"
-    },
-    {
-      "version": "3.2.0",
-      "file": "DLSS5 zeXPro一键部署安装器 v3.2.0",
-      "sizeMb": 0,
-      "sha256": "",
-      "baidu": {
-        "url": "https://pan.baidu.com/s/1LGNG1NSY7RDnruiKA5Iijg?pwd=zeXP 提取码: zeXP",
-        "code": "zeXP"
-      },
-      "quark": {
-        "url": "https://pan.quark.cn/s/ffc50de2291d",
-        "code": ""
-      },
-      "notes": [
-        "我知道你们增量更新下载补了 去度盘下载（点旁边的全量更新应该能看到推送的地址） 3.2之后在线更新应该没什么大问题了 有就反馈",
-        "https://pan.baidu.com/s/1LGNG1NSY7RDnruiKA5Iijg?pwd=zeXP 提取码: zeXP",
-        "https://pan.quark.cn/s/ffc50de2291d",
-        "修复安装器版本更新下载失败的问题",
-        "修复改快捷键卡片消失问题",
-        "修复a卡部分安装失败的问题",
-        "优化插件在线更新稳定性 不会下载失败 且可下载的插件也增加了进度条",
-        "其他懒得写了 有bug及时反馈 嘿嘿"
-      ],
-      "publishedAt": "2026-11-23T03:10:20.779Z"
     }
   ],
   "addons": {},
