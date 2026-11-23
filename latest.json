@@ -1,4 +1,18 @@
 {
   "installers": [],
-  "addons": {}
+  "addons": {},
+  "app": {
+    "version": "3.2.0",
+    "tag": "app-vlatest",
+    "manifestUrl": "https://github.com/zexprokk/zexpro-addons/releases/download/app-vlatest/update-manifest.json",
+    "objectsSize": 1284988,
+    "fullSize": 0,
+    "notes": [
+      "修复改快捷键卡片消失问题",
+      "修复a卡部分安装失败的问题",
+      "优化插件在线更新稳定性 不会下载失败 且可下载的插件也增加了进度条",
+      "其他懒得写了 有bug及时反馈 嘿嘿"
+    ],
+    "publishedAt": "2026-11-23T02:08:24.261Z"
+  }
 }
