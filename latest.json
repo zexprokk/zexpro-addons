@@ -29,14 +29,14 @@
   ],
   "addons": {},
   "app": {
-    "version": "3.2.3",
-    "tag": "app-vlatest",
+    "version": "3.2.2",
+    "tag": "app-v3.2.2",
     "manifestUrl": "https://github.com/zexprokk/zexpro-addons/releases/download/app-vlatest/update-manifest.json",
-    "objectsSize": 1320600,
+    "objectsSize": 1311455,
     "fullSize": 0,
     "notes": [
-      "无视这条推送 我个人进行测试你们不用下载 稍后就删除这条推送"
+      "恢复为 3.2.2（撤回测试推送）"
     ],
-    "publishedAt": "2026-11-23T19:24:17.109Z"
+    "publishedAt": "2026-11-23T19:38:56.646Z"
   }
 }
