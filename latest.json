@@ -29,20 +29,14 @@
   ],
   "addons": {},
   "app": {
-    "version": "3.2.2",
+    "version": "3.2.3",
     "tag": "app-vlatest",
     "manifestUrl": "https://github.com/zexprokk/zexpro-addons/releases/download/app-vlatest/update-manifest.json",
-    "objectsSize": 1311455,
+    "objectsSize": 1320600,
     "fullSize": 0,
     "notes": [
-      "目前最新3.2.2在线更新应该没问题了，如果不是该版本的用户请前往云盘下载最新全量包  群里也有下载。后续有问题的话通过在线更新应该就稳了 死磕这问题一天一夜。",
-      "链接：https://pan.quark.cn/s/57ea2a1cb46f?pwd=nDwG",
-      "提取码：nDwG",
-      "链接: https://pan.baidu.com/s/1oczwsh8kiQx448J_SAUL9g?pwd=zeXP 提取码: zeXP",
-      "修复在线更新的问题",
-      "修复mfg在某些页面会消失的问题",
-      "一些小bug"
+      "无视这条推送 我个人进行测试你们不用下载 稍后就删除这条推送"
     ],
-    "publishedAt": "2026-11-23T09:54:16.186Z"
+    "publishedAt": "2026-11-23T19:24:17.109Z"
   }
 }
