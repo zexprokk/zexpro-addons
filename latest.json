@@ -51,7 +51,23 @@
       "publishedAt": "2026-11-23T04:46:16.386Z"
     }
   ],
-  "addons": {},
+  "addons": {
+    "mfg": {
+      "version": "1.12.0",
+      "tag": "mfg-v1.12.0",
+      "notes": [
+        "该作者这个插件也增加了dlss5的面板，但是默认是关闭，我已经安装了别的dlss5插件所以他自带的这个就无视不用管 如果这个也打开会冲突"
+      ],
+      "files": [
+        {
+          "name": "renodx-mfgunlock-1.12.0.addon64",
+          "size": 12350464,
+          "url": "https://github.com/zexprokk/zexpro-addons/releases/download/mfg-v1.12.0/renodx-mfgunlock-1.12.0.addon64"
+        }
+      ],
+      "updatedAt": "2026-11-24T18:28:35.307Z"
+    }
+  },
   "app": {
     "version": "3.2.4",
     "tag": "app-v3.2.4",
