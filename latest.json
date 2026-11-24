@@ -1,6 +1,30 @@
 {
   "installers": [
     {
+      "version": "3.2.4",
+      "file": "",
+      "sizeMb": 0,
+      "sha256": "",
+      "baidu": {
+        "url": "https://pan.baidu.com/s/1TzRa6RpFdHA3ExoKmrBK9A?pwd=7n8x",
+        "code": "7n8x"
+      },
+      "quark": {
+        "url": "https://pan.quark.cn/s/9ccb43e20c67?pwd=bHmb",
+        "code": "bHmb"
+      },
+      "notes": [
+        "3.2.4更新说明",
+        "修复某些游戏选中exe后点继续没反应无法下一步进入安装的问题。",
+        "优化a卡诊断修复时的一个小bug",
+        "更换了GTA5增强版解决红字补丁游戏里插件红字 无法保存配置的补丁，之前的失效了 现在这个更好",
+        "新增天国拯救2steam版专用帧生成和多帧生成补丁并添加使用说明。",
+        "还修了什么bug懒得写了 狂肝了3天 你们反馈的能优化的我都优化了 是bug我都修了",
+        "以下是全量包的网盘下载地址 作为增量更新失败的兜底。"
+      ],
+      "publishedAt": "2026-11-24T18:21:15.158Z"
+    },
+    {
       "version": "3.2.1",
       "file": "DLSS5-zeXPro-Installer-v3.2.1-full.zip",
       "sizeMb": 2741,
