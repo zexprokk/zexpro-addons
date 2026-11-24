@@ -29,14 +29,23 @@
   ],
   "addons": {},
   "app": {
-    "version": "3.2.2",
-    "tag": "app-v3.2.2",
+    "version": "3.2.4",
+    "tag": "app-v3.2.4",
     "manifestUrl": "https://github.com/zexprokk/zexpro-addons/releases/download/app-vlatest/update-manifest.json",
-    "objectsSize": 1311455,
+    "objectsSize": 43871842,
     "fullSize": 0,
     "notes": [
-      "恢复为 3.2.2（撤回测试推送）"
+      "3.2.4更新说明",
+      "修复某些游戏选中exe后点继续没反应无法下一步进入安装的问题。",
+      "优化a卡诊断修复时的一个小bug",
+      "更换了GTA5 游戏里插件红字 无法保存配置的补丁，之前的失效了 现在这个更好",
+      "新增天国拯救2steam版专用帧生成和多帧生成补丁并添加使用说明。",
+      "还修了什么bug懒得写了 狂肝了3天 你们反馈的能优化的我都优化了 是bug我都修了",
+      "以下是全量包的网盘下载地址 作为增量更新失败的兜底。",
+      "链接：https://pan.quark.cn/s/9ccb43e20c67?pwd=bHmb",
+      "提取码：bHmb",
+      "链接: https://pan.baidu.com/s/1TzRa6RpFdHA3ExoKmrBK9A?pwd=7n8x 提取码: 7n8x"
     ],
-    "publishedAt": "2026-11-23T19:38:56.646Z"
+    "publishedAt": "2026-11-24T18:09:59.435Z"
   }
 }
